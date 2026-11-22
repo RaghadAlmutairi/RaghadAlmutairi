@@ -2,7 +2,7 @@
 
 **AI Engineer** based in Saudi Arabia, building LLM applications, RAG systems, agentic workflows, and Arabic speech models.
 
-B.S. in Artificial Intelligence, University of Jeddah (Second Honors, GPA 4.67/5)
+B.S. in Artificial Intelligence, University of Jeddah.
 
 ## 🏅 Certifications
 - Microsoft Certified: **Azure AI Apps and Agents Developer Associate**
