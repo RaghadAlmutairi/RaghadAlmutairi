@@ -22,7 +22,7 @@ B.S. in Artificial Intelligence, University of Jeddah (Second Honors, GPA 4.67/5
 
 ## 📄 Publication
 **HearMeWell: Emotion Signals Recognition in Arabic Speech Using Image-Based and Numerical-Based Approaches**
-Published on IEEE Xplore, presented at ICMI 2026 (King Faisal University) → [Read the paper](PASTE-IEEE-LINK-HERE)
+Published on IEEE Xplore, presented at ICMI 2026 (King Faisal University) → [Read the paper](https://ieeexplore.ieee.org/document/11539908)
 
 ## 🛠️ Tech
 **Languages:** Python, SQL
