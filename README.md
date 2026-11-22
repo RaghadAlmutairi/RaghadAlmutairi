@@ -18,6 +18,7 @@ B.S. in Artificial Intelligence, University of Jeddah.
 | [**HearMeWell**](https://github.com/RaghadAlmutairi/HearMeWell_Project_TwoApproaches) | Emotion recognition in Arabic speech using image-based and numerical-based approaches. 🥇 1st place, Innovation Track | Python, Whisper, mel spectrograms |
 | [**Mineral Classification**](https://github.com/RaghadAlmutairi/Mineral_Classification_from_Microscopic_Images) | Microscopic rock image classifier built during my internship at Saudi Geological Survey (99% accuracy) | Python, deep learning |
 | [**Saudi Arabic EOU**](https://github.com/RaghadAlmutairi/SaudiArabic_EOU_Project) | End-of-utterance detection for Saudi Arabic voice agents | Python, LiveKit |
+| [**SmarterLearn**](https://github.com/RaghadAlmutairi/SmarterLearnApp) | Web app that turns YouTube videos into personalized learning experiences (mind maps, voice Q&A, quizzes, summaries) based on learning style. Built in 10 days with a teammate during the Himma AI Engineering Bootcamp | Python, Streamlit, Whisper, GPT-4o-mini, LangChain RAG |
 | [**Medical Information Assistant**](https://github.com/RaghadAlmutairi/Medical-Information-Assistant) | ReAct agent with tool use and safety guardrails (output filtering, rate limiting, mandatory disclaimer) | Python, Streamlit, GPT-4o-mini |
 
 ## 📄 Publication
